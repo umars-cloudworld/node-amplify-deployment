@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 initialise_repo.sh
+git_push.sh
 # testing
 /coverage
 
